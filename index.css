@@ -1,5 +1,7 @@
 div {
     font-size: 34px;
     font-weight: bold;
-    color: blueviolet;
+    color: rgb(43, 58, 226);
+    border: 2px solid black;
+    padding: 20px;
 }
