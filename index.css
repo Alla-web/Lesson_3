@@ -1,6 +1,11 @@
 div {
-    font-size: 34px;
-    font-weight: bold;
-    color: rgb(226, 147, 43);
-    padding: 20px;
+  font-size: 34px;
+  font-weight: bold;
+  color: rgb(226, 147, 43);
+  padding: 20px;
+}
+
+p {
+  font-size: 20px;
+  color: rgb(167, 195, 54);
 }
